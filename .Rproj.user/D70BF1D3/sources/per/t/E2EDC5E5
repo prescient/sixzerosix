@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590326597998.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2400097758",
+    "id" : "E2EDC5E5",
+    "lastKnownWriteTime" : 1590416225,
+    "last_content_update" : 1590416225418,
+    "path" : "C:/Users/rdelv/Desktop/git/sixzerosix/R/sixzerosix.R",
+    "project_path" : "R/sixzerosix.R",
+    "properties" : {
+        "cursorPosition" : "142,44",
+        "scrollLine" : "115",
+        "source_window_id" : "",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,17 @@
+Package: sixzerosix
+Type: Package
+Title: Package support ASC 606 lifetime value accounting standards estimation.
+Version: 0.1.0
+Author: Robert Del Vicario
+Maintainer: rdelvicario@gmail.com
+Description: ASC 606 standards require companies to recognize revenue 
+proportionate with the goods and services transferred to customers the time of 
+sale. In companies such as insurance brokerages this requires the lifetime 
+revenue of the insurance policy to be recognized at the policy application or
+effectuation date. 
+
+    This package is designed to help estimate survival curves and cash flows for
+    medicare advantage brokerages.
+License: MIT
+Encoding: UTF-8
+LazyData: true

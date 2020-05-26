@@ -1,0 +1,11 @@
+tst <- cbind(rep(1, 5),
+             rep(2, 5),
+             rep(4, 5),
+             rep(6, 5),
+             rep(3, 5),
+             rep(5, 5))
+cols <- c(1, 2, 4, 6, 3, 5)
+pos <- c(1:ncol(tst))
+
+tst <- tst[,pos[order(cols)]]
+tst
